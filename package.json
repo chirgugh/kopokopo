@@ -1,0 +1,17 @@
+{
+  "name": "kopokopo",
+  "version": "1.0.0",
+  "description": "best customer with longest period of consecutive daily payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15",
+    "papaparse": "^5.3.1"
+  }
+}
